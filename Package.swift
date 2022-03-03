@@ -35,11 +35,6 @@ let package = Package(
             dependencies: [
 				"Difference",
 				"ReSwift"
-			]),
-        .testTarget(
-            name: "ReSwiftTestTests",
-            dependencies: [
-				"ReSwiftTest"
 			])
     ]
 )
