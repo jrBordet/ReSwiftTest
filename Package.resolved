@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Difference",
+        "repositoryURL": "https://github.com/krzysztofzablocki/Difference.git",
+        "state": {
+          "branch": "master",
+          "revision": "4efe67781551ffcee195003d0b93d946407806b3",
+          "version": null
+        }
+      },
+      {
+        "package": "ReSwift",
+        "repositoryURL": "https://github.com/jrBordet/ReSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "614cc902cfe7ca1fe0ccad9a41356acbe9b8391e",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
